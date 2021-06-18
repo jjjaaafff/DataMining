@@ -21,11 +21,11 @@
     
 
 * 实验
-  1. [Clustering (K-means)](./Lab/lab1/readme.md)
-  2. [Community Detection (Louvain)](./Lab/lab2/readme.md)
-  3. [Link Prediction (Network embedding)](./Lab/lab3/readme.md)
-  4. [Streaming Algorithm (DGIM, Bloom filter, Count-Min sketch)](./Lab/lab4/readme.md)
+  1. [Clustering (K-means)](./Lab/lab1)
+  2. [Community Detection (Louvain)](./Lab/lab2)
+  3. [Link Prediction (Network embedding)](./Lab/lab3)
+  4. [Streaming Algorithm (DGIM, Bloom filter, Count-Min sketch)](./Lab/lab4)
 
 * 项目  
   
-    [Movie Recommendation System](./Project/readme.md)
+    [Movie Recommendation System](./Project)
