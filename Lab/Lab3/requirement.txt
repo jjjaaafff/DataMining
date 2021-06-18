@@ -1,0 +1,3 @@
+Python 3.7.0
+Numpy 1.18.1
+tqdm 4.47.0
