@@ -21,10 +21,10 @@
     
 
 * 实验
-  1. [Clustering (K-means)](./Lab/lab1)
-  2. [Community Detection (Louvain)](./Lab/lab2)
-  3. [Link Prediction (Network embedding)](./Lab/lab3)
-  4. [Streaming Algorithm (DGIM, Bloom filter, Count-Min sketch)](./Lab/lab4)
+  1. [Clustering (K-means)](./Lab/Lab1)
+  2. [Community Detection (Louvain)](./Lab/Lab2)
+  3. [Link Prediction (Network embedding)](./Lab/Lab3)
+  4. [Streaming Algorithm (DGIM, Bloom filter, Count-Min sketch)](./Lab/Lab4)
 
 * 项目  
   
