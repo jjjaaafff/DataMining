@@ -7,14 +7,14 @@
 
 * 课程框架  
   
-  ![Guideline](guideline.jpg)
+  ![Guideline](guideline.JPG)
 
 * 课程内容
 
-    * [Introduction](./课件/Introduction/readme.md)
-    * [High-Dimension Data](./课件/High-dim-data/readme.md)
-    * [Graph Data](./课件/Graph-data/readme.md) 
-    * [Streaming Data](./课件/Streamingalg/readme.md) 
+    * [Introduction](./课件/Introduction)
+    * [High-Dimension Data](./课件/High-dim-data)
+    * [Graph Data](./课件/Graph-data) 
+    * [Streaming Data](./课件/Streamingalg) 
     * [Frameworks](./课件/Frameworks)
     * [Privacy and Security](./课件/PrivacyandSecurity)
     * [Apps](./课件/Apps)
